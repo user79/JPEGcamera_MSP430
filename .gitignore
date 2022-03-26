@@ -1,3 +1,11 @@
+#hidden files and directories
+.project
+.cproject
+.ccsproject
+.launches
+.settings
+targetConfigs
+
 # Prerequisites
 *.d
 

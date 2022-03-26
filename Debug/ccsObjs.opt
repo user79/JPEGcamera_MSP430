@@ -1,0 +1,1 @@
+"./utility/diskio.o" "./utility/pff.o" "./pfatfs.o" "./SDCardTutorialWithEnergia3.o" "./SPI/SPI.o" "./utility/eusci_spi.o" "./utility/usci_spi.o" "./utility/usi_spi.o" "./VC0706_try1.o" -Wl,--start-group -l"lpmsp430f5529_25_core" -Wl,--end-group 
